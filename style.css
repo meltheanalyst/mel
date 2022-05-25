@@ -1,0 +1,42 @@
+body {
+  background-color: blue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.image {
+  display: block;
+  width: 40%;
+  height: auto;
+}
